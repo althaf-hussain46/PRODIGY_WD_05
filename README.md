@@ -1,7 +1,7 @@
 <pre>
 <h1>Project Overview</h1>
   
-This project is a Weather App that provides real-time weather updates for any location entered by the user. The app fetches data from the OpenWeather API and displays the current weather conditions, including temperature, humidity, wind speed, and a brief description.
+This project is a <span><h2>Weather App</h2></span> that provides real-time weather updates for any location entered by the user. The app fetches data from the OpenWeather API and displays the current weather conditions, including temperature, humidity, wind speed, and a brief description.
 
 <h2>Technologies Used</h2>
 HTML5: For structuring the web page layout.
