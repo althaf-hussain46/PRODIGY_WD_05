@@ -42,6 +42,6 @@ Enter Location: Type a location into the input field and click "Get Weather" to 
 View Weather Info: The app displays the temperature, humidity, wind speed, and a brief weather description for the specified location.
 Geolocation Option: Allow the app to access your location to get weather updates based on your current position.
   
-<u>Feel free to explore the project on GitHub and leave your feedback. Thank you for visiting my repository!</u>
+<h2>Feel free to explore the project on GitHub and leave your feedback. Thank you for visiting my repository!</h2>
   
 </pre>
