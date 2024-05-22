@@ -36,5 +36,12 @@ JavaScript handles fetching weather data from the OpenWeather API, displaying it
 
 <h2>CSS Styling (styles.css)</h2>
 CSS is used to style the input fields, button, and weather information container, ensuring the app is visually appealing and responsive.
+
+<h2>How to Use</h2>
+Enter Location: Type a location into the input field and click "Get Weather" to fetch the current weather data.
+View Weather Info: The app displays the temperature, humidity, wind speed, and a brief weather description for the specified location.
+Geolocation Option: Allow the app to access your location to get weather updates based on your current position.
+  
+<u>Feel free to explore the project on GitHub and leave your feedback. Thank you for visiting my repository!</u>
   
 </pre>
